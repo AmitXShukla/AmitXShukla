@@ -22,9 +22,9 @@ You can find me on
 
 ### about you 👯
 You are here, because you got interest in one of my projects, which you might have found on Google, YouTube, GitHub or one my social blogs.<br/><br/>
-Doesn't matter, how you found me, I want to ![](https://img.shields.io/badge/<Thank>-<You>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) for your interest.<br/><br/>
+Doesn't matter, how you found me, I want to <b>Thank you</b> for your interest.<br/><br/>
 Trust me, it's lot of work to deliver a real life working project.<br>
-And if you like my project, Please be kind and give it a ![](https://img.shields.io/badge/<*>-<follow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) at GitHub and Youtube.
+And if you like my project, Please be kind and give it a <img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px"> at GitHub and follow my <img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px"> channel.
 <br/><br/>
 And if you don't like my projects, I respect constructive criticism but please don't be mean, it's that hard to ignore, unsubscribe, unfollow me.
 but please don't be disrespectful.
@@ -41,10 +41,10 @@ Most of my blogs/videos are always about real life apps/projects.
 and when you have issues, YouTube comments/chat don't help.
 To help you better, I need to see, detail error screenshots, console logs etc.<br/><br/>
 Please use GitHub repository issues tab, Please first visit open/closed issues in repository, chances are, questions you have, are already answered, and you will find resolutions in issues log.<br/><br/>
-If you don't please open a new issue and include as much details as you can.
+If you don't find any solution, please open a new issue and include as much details as you can.
 
 - 🔭 I’m currently working on ...
-working on Data Science Project<br/>
+working on a Data Science Project<br/>
 Healthcare Management app using Flutter<br/>
 
 - ⚡ Complete Projects: ...
