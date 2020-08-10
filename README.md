@@ -26,8 +26,8 @@ Doesn't matter, how you found me, I want to <b>Thank you</b> for your interest.<
 Trust me, it's lot of work to deliver a real life working project.<br>
 And if you like my project, Please be kind and give it a [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus) at GitHub and follow my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/amitshukla_ai) channel.
 <br/><br/>
-And if you don't like my projects, I respect constructive criticism but please don't be mean, it's that hard to ignore, unsubscribe, unfollow me.
-but please don't be disrespectful.
+And if you don't like my projects, I respect constructive criticism but please don't be mean, it's not hard to ignore, unsubscribe, unfollow me.
+but please don't be disrespectful and follow community guidelines.
 
 Stars, followers and subscribers like you, is what motivate me to take on more challanges and deliver more community projects for you.
 
