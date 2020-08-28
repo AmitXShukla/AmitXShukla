@@ -21,8 +21,8 @@ You can find me on
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/medium.svg" width="30px" height="30px">](https://medium.com/@Amit_Shukla)
 
 ### about you 👯
-You are here, because you got interest in one of my projects, which you might have found on Google, YouTube, GitHub or one my social blogs.<br/><br/>
-Doesn't matter, how you found me, I want to <b>Thank you</b> for your interest.<br/><br/>
+You are here, because you got interest in one of my projects.<br/>
+Doesn't matter, which link brought you here, I want to <b><u>Thank you</u></b> for your interest.<br/><br/>
 Trust me, it's lot of work to deliver a real life working project.<br>
 And if you like my project, Please be kind and give it a [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus) at GitHub and follow my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/amitshukla_ai) channel.
 <br/><br/>
@@ -43,13 +43,14 @@ To help you better, I need to see, detail error screenshots, console logs etc.<b
 Please use GitHub repository issues tab, Please first visit open/closed issues in repository, chances are, questions you have, are already answered, and you will find resolutions in issues log.<br/><br/>
 If you don't find any solution, please open a new issue and include as much details as you can.
 
-- 🔭 I’m currently working on ...
-working on a Data Science Project<br/>
+- 🔭 I’m currently working on ...<br/>
+working on a big Data Science Project<br/>
 Healthcare Management app using Flutter<br/>
+Pandemic Contact Tracing, Visitor Management App<br/>
 
 - ⚡ Complete Projects: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
-<b>Bestsellers:</b><br/>
+<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <b>Bestsellers:</b><br/>
 <A href="https://github.com/AmitXShukla/Online-School-Management-App-Angular-Firebase">Online School Management App</a><br/>
 <A href="https://github.com/AmitXShukla/ERP-Apps-CRM-Cloud-Angular_Firebase">CRM Cloud App</a><br/>
 <A href="https://github.com/AmitXShukla/Online-Shop-eCommerce-App-Angular-6-Firebase">eCommerce Store</a><br/>
