@@ -53,6 +53,7 @@ Healthcare Management app using Flutter<br/>
 <!--
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <b>Bestsellers:</b><br/>
 -->
+<a href="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App">COVID Vaccine Distribution Managment App</a><br/>
 <a href="https://github.com/AmitXShukla/Pandemic-Contact-Tracing-App">Pandemic Contact Tracing App</a><br/>
 <A href="https://github.com/AmitXShukla/Online-School-Management-App-Angular-Firebase">Online School Management App</a><br/>
 <A href="https://github.com/AmitXShukla/ERP-Apps-CRM-Cloud-Angular_Firebase">CRM Cloud App</a><br/>
