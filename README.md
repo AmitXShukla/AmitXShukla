@@ -44,8 +44,11 @@ Please use GitHub repository issues tab, Please first visit open/closed issues i
 If you don't find any solution, please open a new issue and include as much details as you can.
 
 - 🔭 I’m currently working on ...<br/>
-working on a big Data Science Project <a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
-Healthcare Management app using Flutter<br/>
+working on a big Data Science Project <br/>
+<a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
+<a href="https://github.com/AmitXShukla/TaxAnalytics.jl">TaxAnalytics.jl</a><br/>
+MatchException.jl<br/><br/>
+<a href="https://github.com/AmitXShukla/Healthcare-Management-App-Flutter_Firebase">Healthcare Management app using Flutter</a><br/>
 
 - 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
