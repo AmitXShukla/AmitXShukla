@@ -48,7 +48,6 @@ working on a big Data Science Project <br/>
 <a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
 <a href="https://github.com/AmitXShukla/TaxAnalytics.jl">TaxAnalytics.jl</a><br/>
 MatchException.jl<br/><br/>
-<a href="https://github.com/AmitXShukla/Healthcare-Management-App-Flutter_Firebase">Healthcare Management app using Flutter</a><br/>
 
 - 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
@@ -56,6 +55,7 @@ MatchException.jl<br/><br/>
 <!--
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <b>Bestsellers:</b><br/>
 -->
+<a href="https://github.com/AmitXShukla/Healthcare-Management-App-Flutter_Firebase">Healthcare Management app using Flutter</a><br/>
 <a href="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App">COVID Vaccine Distribution Managment App</a><br/>
 <a href="https://github.com/AmitXShukla/Pandemic-Contact-Tracing-App">Pandemic Contact Tracing App</a><br/>
 <A href="https://github.com/AmitXShukla/Online-School-Management-App-Angular-Firebase">Online School Management App</a><br/>
