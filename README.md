@@ -47,7 +47,7 @@ If you don't find any solution, please open a new issue and include as much deta
 working on a big Data Science Project <br/>
 <a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
 <a href="https://github.com/AmitXShukla/TaxAnalytics.jl">TaxAnalytics.jl</a><br/>
-<a href="https://github.com/AmitXShukla/Buy2Pay.jl">Buy2Pay.jl</a><br/>
+<a href="https://github.com/AmitXShukla/P2P.jl">Procure2Pay.jl</a><br/>
 MatchException.jl<br/><br/>
 
 - 😄 My Bio: ...
