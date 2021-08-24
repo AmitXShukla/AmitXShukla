@@ -18,7 +18,7 @@ You can find me on
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/amitshukla_ai)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_2.svg" width="30px" height="30px">](https://twitter.com/ashuklax)
-[<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/medium.svg" width="30px" height="30px">](https://medium.com/@Amit_Shukla)
+[<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/medium.svg" width="30px" height="30px">](https://amit-shukla.medium.com/)
 
 ### about you 👯
 You are here, because you got interest in one of my projects.<br/>
