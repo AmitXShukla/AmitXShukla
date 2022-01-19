@@ -20,7 +20,6 @@ You can find me on
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_2.svg" width="30px" height="30px">](https://twitter.com/ashuklax)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/medium.svg" width="30px" height="30px">](https://amit-shukla.medium.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitXShukla&layout=compact)](https://github.com/AmitXShukla/AmitXShukla)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitXShukla&show_icons=true)
 
 ### about you 👯
