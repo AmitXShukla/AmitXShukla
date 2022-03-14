@@ -45,16 +45,10 @@ To help you better, I need to see, detail error screenshots, console logs etc.<b
 Please use GitHub repository issues tab, Please first visit open/closed issues in repository, chances are, questions you have, are already answered, and you will find resolutions in issues log.<br/><br/>
 If you don't find any solution, please open a new issue and include as much details as you can.
 
-- 🔭 I’m currently working on ...<br/>
-working on a big Data Science Project <br/>
-<a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
-<a href="https://github.com/AmitXShukla/TaxAnalytics.jl">TaxAnalytics.jl</a><br/>
-<a href="https://github.com/AmitXShukla/P2P.jl">Procure2Pay.jl</a><br/>
-MatchException.jl<br/><br/>
-
-- 😄 My Bio: ...
+### 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
-- ⚡ Complete Projects with source code: ...
+
+### ⚡ Complete Projects with source code: ...
 <!--
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <b>Bestsellers:</b><br/>
 -->
@@ -70,3 +64,14 @@ MatchException.jl<br/><br/>
 <A href="https://github.com/AmitXShukla/GPS-Mobile-Tracking-App">GPS Mobile Tracking App</a><br/>
 <A href="https://github.com/AmitXShukla/Mobile-Picture-GPS-Tracking-Attendance-APP">Mobile Picture & GPS Employee Attendance App</a><br/><br/>
 <A href="https://github.com/AmitXShukla/Angular-Cordova-Google-PlayStore-Publish">How to publish your app to Google Playstore using Apache Cordova</a><br/>
+
+### 🔭 I’m currently working on ...<br/>
+<a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
+<a href="https://github.com/AmitXShukla/Taxology.ai">Taxology.ai</a><br/>
+<a href="https://github.com/AmitXShukla/HazardAhead.ai">HazardAhead.ai</a><br/>
+<a href="https://github.com/AmitXShukla/CT-NLM-CDC-NIH.ai">CT-NLM-CDC-NIH.ai</a><br/><br/>
+supporting Data Science Packages <br/>
+<a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
+<a href="https://github.com/AmitXShukla/TaxAnalytics.jl">TaxAnalytics.jl</a><br/>
+<a href="https://github.com/AmitXShukla/P2P.jl">Procure2Pay.jl</a><br/>
+MatchException.jl
