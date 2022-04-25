@@ -65,13 +65,15 @@ If you don't find any solution, please open a new issue and include as much deta
 <A href="https://github.com/AmitXShukla/Mobile-Picture-GPS-Tracking-Attendance-APP">Mobile Picture & GPS Employee Attendance App</a><br/><br/>
 <A href="https://github.com/AmitXShukla/Angular-Cordova-Google-PlayStore-Publish">How to publish your app to Google Playstore using Apache Cordova</a><br/>
 
-### 🔭 I’m currently working on ...<br/>
+### 💡 AI Projects with complete source code ...<br/>
 <a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
-<a href="https://github.com/AmitXShukla/Taxology.ai">Taxology.ai</a><br/>
 <a href="https://github.com/AmitXShukla/HazardAhead.ai">HazardAhead.ai</a><br/>
+
+### 🔭 I’m currently working on ...<br/>
+Taxology.ai<br/>
 <a href="https://github.com/AmitXShukla/CT-NLM-CDC-NIH.ai">CT-NLM-CDC-NIH.ai</a><br/><br/>
 supporting Data Science Packages <br/>
 <a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
-<a href="https://github.com/AmitXShukla/TaxAnalytics.jl">TaxAnalytics.jl</a><br/>
+TaxAnalytics.jl<br/>
 <a href="https://github.com/AmitXShukla/P2P.jl">Procure2Pay.jl</a><br/>
 MatchException.jl
