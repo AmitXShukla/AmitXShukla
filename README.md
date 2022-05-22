@@ -66,7 +66,7 @@ If you don't find any solution, please open a new issue and include as much deta
 <A href="https://github.com/AmitXShukla/Angular-Cordova-Google-PlayStore-Publish">How to publish your app to Google Playstore using Apache Cordova</a><br/>
 
 ### 💡 AI Projects with complete source code ...<br/>
-<a href="[https://github.com/AmitXShukla/P2P.ai](https://github.com/AmitXShukla/eCommerce.ai)">eCommerce.ai</a><br/>
+<a href="https://github.com/AmitXShukla/eCommerce.ai">eCommerce.ai</a><br/>
 <a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
 <a href="https://github.com/AmitXShukla/HazardAhead.ai">HazardAhead.ai</a><br/>
 
