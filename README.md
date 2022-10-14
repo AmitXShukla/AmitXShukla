@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> I build real life apps for community.<br/>
 You can find me on 
-[<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/amitshukla_ai)
+[<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_2.svg" width="30px" height="30px">](https://twitter.com/ashuklax)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/medium.svg" width="30px" height="30px">](https://amit-shukla.medium.com/)
@@ -26,7 +26,7 @@ You can find me on
 You are here, because you got interest in one of my projects.<br/>
 Doesn't matter, which link brought you here, I want to <b><u>Thank you</u></b> for your interest.<br/><br/>
 Trust me, it's lot of work to deliver a real life working project.<br>
-And if you like my project, Please be kind and give it a [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus) at GitHub and follow my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/amitshukla_ai) channel.
+And if you like my project, Please be kind and give it a [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus) at GitHub and follow my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla) channel.
 <br/><br/>
 And if you don't like my projects, I respect constructive criticism but please don't be mean, it's not hard to ignore, unsubscribe, unfollow me.
 but please don't be disrespectful and follow community guidelines.
