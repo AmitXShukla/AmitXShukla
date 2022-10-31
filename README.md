@@ -27,19 +27,16 @@ You are here, because you got interest in one of my projects.<br/>
 Doesn't matter, which link brought you here, I want to <b><u>Thank you</u></b> for your interest.<br/><br/>
 Trust me, it's lot of work to deliver a real life working project.<br>
 And if you like my project, Please be kind and give it a [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus) at GitHub and follow my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla) channel.
-<br/><br/>
-And if you don't like my projects, I respect constructive criticism but please don't be mean, it's not hard to ignore, unsubscribe, unfollow me.
-but please don't be disrespectful and follow community guidelines.
-
+<br/>
 Stars, followers and subscribers like you, is what motivate me to take on more challanges and deliver more community projects for you.
 
-- 💬 Ask me about pro versions ...
-Pro versions are mostly customized versions, means, customized functionality as per your unique business requirements to fit your need.
-On contrast to throwing you any sales pitch and tempt you to buy any pro versions, I recommend to use my free community projects instead.
-but when you need a custom version, reach out to me.
+- 💬 Ask me about Pro versions ...
+Pro versions are mostly custom versions (free for NGOs), built to deliver functionality as per business requirements to fit business need.
+On contrast to throwing you any sales pitch and tempt you to buy any pro versions, I recommend to use my free community projects instead,
+and when you need a custom version, reach out to me.
 
 - 📫 How to reach me: ...
-Most of my blogs/videos are always about real life apps/projects.
+Most of my blogs/videos are always about building real life Pro apps/projects.
 and when you have issues, YouTube comments/chat don't help.
 To help you better, I need to see, detail error screenshots, console logs etc.<br/><br/>
 Please use GitHub repository issues tab, Please first visit open/closed issues in repository, chances are, questions you have, are already answered, and you will find resolutions in issues log.<br/><br/>
@@ -64,15 +61,18 @@ If you don't find any solution, please open a new issue and include as much deta
 <A href="https://github.com/AmitXShukla/GPS-Mobile-Tracking-App">GPS Mobile Tracking App</a><br/>
 <A href="https://github.com/AmitXShukla/Mobile-Picture-GPS-Tracking-Attendance-APP">Mobile Picture & GPS Employee Attendance App</a><br/><br/>
 
-<br/><br/>
-### 💡 AI Hackathon Projects with complete source code ...<br/>
+### 🔭 AI Hackathon Projects with complete source code ...<br/>
 <a href="https://github.com/AmitXShukla/Rapyd">B2B|C Smart Ads, Invoices Rapyd Payment solution</a><br/>
 <a href="https://github.com/AmitXShukla/eCommerce.ai">eCommerce.ai</a><br/>
 <a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
 <a href="https://github.com/AmitXShukla/HazardAhead.ai">HazardAhead.ai</a><br/>
 
-### 🔭 I’m currently working on ...<br/>
+### 💡 I’m currently working on ...<br/>
+Live Inventory Management app (Flutter)<br/>
+RPA (Julia Lang, NLP)<br/>
 Taxology.ai<br/>
+OCR.ai<br/>
+MyBookOfJulia<br/>
 <a href="https://github.com/AmitXShukla/CT-NLM-CDC-NIH.ai">CT-NLM-CDC-NIH.ai</a><br/><br/>
 supporting Data Science Packages <br/>
 <a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
