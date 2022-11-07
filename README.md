@@ -68,7 +68,7 @@ If you don't find any solution, please open a new issue and include as much deta
 <a href="https://github.com/AmitXShukla/HazardAhead.ai">HazardAhead.ai</a><br/>
 
 ### 💡 I’m currently working on ...<br/>
-Live Inventory Management app (Flutter)<br/>
+<a href="https://github.com/AmitXShukla/Inventory.ai">Live Inventory Management app (Flutter)</a><br/>
 RPA (Julia Lang, NLP)<br/>
 Taxology.ai<br/>
 OCR.ai<br/>
