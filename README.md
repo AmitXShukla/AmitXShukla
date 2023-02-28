@@ -69,7 +69,7 @@ If you don't find any solution, please open a new issue and include as much deta
 
 ### 💡 I’m currently working on ...<br/>
 <a href="https://github.com/AmitXShukla/Inventory.ai">Live Inventory Management app (Flutter)</a><br/>
-<a href="https://github.com/AmitXShukla/RPA">RPA (Julia Lang, NLP)</a><br/>
+<a href="https://github.com/AmitXShukla/RPA">RPA (using ChatGPT, Python, Julia Lang)</a><br/>
 Taxology.ai<br/>
 OCR.ai<br/>
 MyBookOfJulia<br/>
