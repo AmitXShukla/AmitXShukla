@@ -59,24 +59,22 @@ If you don't find any solution, please open a new issue and include as much deta
 <A href="https://github.com/AmitXShukla/Visitor-Management-App">Visitor Management App</a><br/>
 <A href="https://github.com/AmitXShukla/Flutter-for-Beginners">Flutter for Beginners - Restaurant Management App</a><br/>
 <A href="https://github.com/AmitXShukla/GPS-Mobile-Tracking-App">GPS Mobile Tracking App</a><br/>
-<A href="https://github.com/AmitXShukla/Mobile-Picture-GPS-Tracking-Attendance-APP">Mobile Picture & GPS Employee Attendance App</a><br/><br/>
-
-### 🔭 AI Hackathon Projects with complete source code ...<br/>
+<A href="https://github.com/AmitXShukla/Mobile-Picture-GPS-Tracking-Attendance-APP">Mobile Picture & GPS Employee Attendance App</a><br/>
+#### 🔭 AI Hackathon Projects with complete source code ...<br/>
 <a href="https://github.com/AmitXShukla/Rapyd">B2B|C Smart Ads, Invoices Rapyd Payment solution</a><br/>
 <a href="https://github.com/AmitXShukla/eCommerce.ai">eCommerce.ai</a><br/>
 <a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
 <a href="https://github.com/AmitXShukla/HazardAhead.ai">HazardAhead.ai</a><br/>
 
 ### 💡 I’m currently working on ...<br/>
-<a href="https://github.com/AmitXShukla/Inventory.ai">Live Inventory Management app (Flutter)</a><br/>
 <a href="https://github.com/AmitXShukla/RPA">RPA (using ChatGPT, Python, Julia Lang)</a><br/>
 Taxology.ai<br/>
+<a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
+<a href="https://github.com/AmitXShukla/MyBookOfJulia">MyBookOfJulia</a><br/>
 OCR.ai<br/>
-MyBookOfJulia<br/>
 <a href="https://github.com/AmitXShukla/CT-NLM-CDC-NIH.ai">CT-NLM-CDC-NIH.ai</a><br/><br/>
 supporting Data Science Packages <br/>
-<a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
 TaxAnalytics.jl<br/>
 <a href="https://github.com/AmitXShukla/P2P.jl">Procure2Pay.jl</a><br/>
-MatchException.jl
-MyBookOfJulia
+MatchException.jl<br/>
+<a href="https://github.com/AmitXShukla/Inventory.ai">Live Inventory Management app (Flutter)</a><br/>
