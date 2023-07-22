@@ -62,7 +62,7 @@ If you don't find any solution, please open a new issue and include as much deta
 <A href="https://github.com/AmitXShukla/Mobile-Picture-GPS-Tracking-Attendance-APP">Mobile Picture & GPS Employee Attendance App</a><br/>
 
 ## 🤖 Automation
-<a href="https://github.com/AmitXShukla/RPA">RPA (using ChatGPT, Python, BARD)</a><br/>
+<a href="https://github.com/AmitXShukla/RPA">RPA (using Llama 2, ChatGPT, Python, BARD)</a><br/>
 
 ### 💡 I’m currently working on ...<br/>
 <a href="https://github.com/AmitXShukla/RPA">Data Wrangling</a><br/>
