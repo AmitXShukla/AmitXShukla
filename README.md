@@ -74,7 +74,7 @@ supporting Data Science Packages <br/>
 <a href="https://github.com/AmitXShukla/P2P.jl">Procure2Pay.jl</a><br/>
 <a href="https://github.com/AmitXShukla/Inventory.ai">Live Inventory Management app (Flutter)</a><br/>
 
-#### 🔭 AI Hackathon Projects with complete source code ...<br/>
+#### 🔭 AI Projects : WIP .ai apps ...<br/>
 <a href="https://github.com/AmitXShukla/Rapyd">B2B|C Smart Ads, Invoices Rapyd Payment solution</a><br/>
 <a href="https://github.com/AmitXShukla/eCommerce.ai">eCommerce.ai</a><br/>
 <a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
