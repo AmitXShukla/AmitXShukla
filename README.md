@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> I develop pro applications for the community.<br/>
 You can find me on 
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla)
-[<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus)
+[<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://github.com/AmitXShukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_2.svg" width="30px" height="30px">](https://twitter.com/ashuklax)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/medium.svg" width="30px" height="30px">](https://amit-shukla.medium.com/)
 
@@ -26,8 +26,7 @@ You can find me on
 You've landed here because you've taken an interest in one of my projects. Regardless of which link led you here, I sincerely want to <b><u>express my gratitude</b></u> for your curiosity.<br/><br/>
 Believe me, bringing a real-life working project to fruition involves a significant amount of effort.
 You are here, because you got interest in one of my projects.<br/>
-
-If you enjoy my project, kindly give it a GitHub star [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus) and follow my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla) channel. Your support motivates me to tackle more challenges and create additional community projects for you.
+If you enjoy my project, kindly give it a GitHub star [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://github.com/AmitXShukla) and subscribe my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla) channel and follow me at [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://github.com/AmitXShukla) and [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_2.svg" width="30px" height="30px">](https://twitter.com/ashuklax). Your support motivates me to tackle more challenges and create additional community projects for you.
 <br/>
 Stars, followers and subscribers like you, is what motivate me to take on more challanges and deliver more community projects for you.
 
