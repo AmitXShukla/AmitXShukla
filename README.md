@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> I build real life apps for community.<br/>
+<img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> I develop pro applications for the community.<br/>
 You can find me on 
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus)
@@ -23,29 +23,28 @@ You can find me on
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitXShukla&show_icons=true)
 
 ### about you 👯
+You've landed here because you've taken an interest in one of my projects. Regardless of which link led you here, I sincerely want to <b><u>express my gratitude</b></u> for your curiosity.<br/><br/>
+Believe me, bringing a real-life working project to fruition involves a significant amount of effort.
 You are here, because you got interest in one of my projects.<br/>
-Doesn't matter, which link brought you here, I want to <b><u>Thank you</u></b> for your interest.<br/><br/>
-Trust me, it's lot of work to deliver a real life working project.<br>
-And if you like my project, Please be kind and give it a [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus) at GitHub and follow my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla) channel.
+
+If you enjoy my project, kindly give it a GitHub star [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://amitxshukla.github.io/aboutus) and follow my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla) channel. Your support motivates me to tackle more challenges and create additional community projects for you.
 <br/>
 Stars, followers and subscribers like you, is what motivate me to take on more challanges and deliver more community projects for you.
 
-- 💬 Ask me about Pro versions ...
-Pro versions are mostly custom versions (free for NGOs), built to deliver functionality as per business requirements to fit business need.
-On contrast to throwing you any sales pitch and tempt you to buy any pro versions, I recommend to use my free community projects instead,
-and when you need a custom version, reach out to me.
+---
 
-- 📫 How to reach me: ...
-Most of my blogs/videos are always about building real life Pro apps/projects.
-and when you have issues, YouTube comments/chat don't help.
-To help you better, I need to see, detail error screenshots, console logs etc.<br/><br/>
-Please use GitHub repository issues tab, Please first visit open/closed issues in repository, chances are, questions you have, are already answered, and you will find resolutions in issues log.<br/><br/>
-If you don't find any solution, please open a new issue and include as much details as you can.
+💬 Ask me about Pro versions ...
+Ask me about Pro versions - They're custom versions (free for NGOs) tailored to meet specific business requirements. Instead of pushing sales pitches for Pro versions, I recommend using my free community projects. When you need a custom version, reach out to me.
+
+📫 How to reach me: ...
+How to reach me: Most of my blogs/videos focus on building real-life Pro apps/projects. For better assistance, provide detailed error screenshots and console logs at GitHub repository instead of using YouTube Chat, as YouTube comments/chat may not suffice.
+
+Please use the GitHub repository issues tab. Check open/closed issues first, as your questions may already be answered there. If not, open a new issue with comprehensive details.
 
 ### 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
 
-### ⚡ Complete Projects with source code: ...
+## ⚡ Complete Projects with source code: ...
 <!--
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <b>Bestsellers:</b><br/>
 -->
@@ -64,7 +63,7 @@ If you don't find any solution, please open a new issue and include as much deta
 ## 🤖 Automation
 <a href="https://github.com/AmitXShukla/RPA">RPA (using Llama 2, ChatGPT, Python, BARD)</a><br/>
 
-### 💡 I’m currently working on ...<br/>
+## 💡 I’m currently working on ...<br/>
 <a href="https://github.com/AmitXShukla/RPA">Data Wrangling</a><br/>
 <a href="https://github.com/AmitXShukla/RPA">Data Analytics</a><br/>
 <a href="https://github.com/AmitXShukla/MyBookOfJulia">MyBookOfJulia</a><br/>
