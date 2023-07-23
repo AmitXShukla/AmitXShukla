@@ -32,11 +32,9 @@ Stars, followers and subscribers like you, is what motivate me to take on more c
 
 ---
 
-💬 Ask me about Pro versions ...
-Ask me about Pro versions - They're custom versions (free for NGOs) tailored to meet specific business requirements. Instead of pushing sales pitches for Pro versions, I recommend using my free community projects. When you need a custom version, reach out to me.
+💬 Ask me about Pro versions ... They're custom versions (free for NGOs) tailored to meet specific business requirements. Instead of pushing sales pitches for Pro versions, I recommend using my free community projects. When you need a custom version, reach out to me.
 
-📫 How to reach me: ...
-How to reach me: Most of my blogs/videos focus on building real-life Pro apps/projects. For better assistance, provide detailed error screenshots and console logs at GitHub repository instead of using YouTube Chat, as YouTube comments/chat may not suffice.
+📫 How to reach me ... Most of my blogs/videos focus on building real-life Pro apps/projects. For better assistance, provide detailed error screenshots and console logs at GitHub repository instead of using YouTube Chat.
 
 Please use the GitHub repository issues tab. Check open/closed issues first, as your questions may already be answered there. If not, open a new issue with comprehensive details.
 
