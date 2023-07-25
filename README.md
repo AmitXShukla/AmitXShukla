@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> I develop pro applications for the community.<br/>
+<img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> I develop applications for the community.<br/>
 You can find me on 
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://github.com/AmitXShukla)
@@ -31,10 +31,10 @@ If you enjoy my project, kindly give it a GitHub star [<img src="https://raw.git
 Stars, followers and subscribers like you, is what motivate me to take on more challanges and deliver more community projects for you.
 
 ---
+<!--
+💬 Ask me about Pro versions ... They're custom versions (free for NGOs) tailored to meet specific business requirements. Instead of throwing any sales pitches for Pro versions, I recommend using my free community projects. When you need a custom version for your NGO, reach out to me. -->
 
-💬 Ask me about Pro versions ... They're custom versions (free for NGOs) tailored to meet specific business requirements. Instead of pushing sales pitches for Pro versions, I recommend using my free community projects. When you need a custom version, reach out to me.
-
-📫 How to reach me ... Most of my blogs/videos focus on building real-life Pro apps/projects. For better assistance, provide detailed error screenshots and console logs at GitHub repository instead of using YouTube Chat.
+📫 How to reach me ... Most of my blogs/videos focus on building real-life Professional apps/projects. For better assistance, provide detailed error screenshots and console logs at GitHub repository instead of using YouTube Chat.
 
 Please use the GitHub repository issues tab. Check open/closed issues first, as your questions may already be answered there. If not, open a new issue with comprehensive details.
 
