@@ -59,10 +59,17 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 
 ## 🤖 Automation
 <a href="https://github.com/AmitXShukla/RPA">RPA (using Llama 2, ChatGPT, Python, BARD)</a><br/>
+<a href="https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-UseCases.ipynb">Llama 2 Installation Windows/Linux</a><br/>
+<a href="https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-Efficient%20Time%20and%20Expense%20Monitoring%20with%20Llama%202.ipynb">Efficient Time and Expense Monitoring with Llama 2</a><br/>
+<a href="https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-Using%20Llama%202%20as%20OCR%20Vision%20AI.ipynb">OCR Vision Document AI using Llama 2, ChatGPT</a><br/>
+<a href="https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-as%20Supply%20Chain%20assistant.ipynb">Automating Supply Chain, 3 way Match, Duplicate Invoices</a><br/>
+
+## 🌱 Data Analytics
+<a href="https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20Polars%20dataframe%20complete%20user%20guide.ipynb">The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame</a><br/>
 
 ## 💡 I’m currently working on ...<br/>
-<a href="https://github.com/AmitXShukla/RPA">Data Wrangling</a><br/>
 <a href="https://github.com/AmitXShukla/RPA">Data Analytics</a><br/>
+<a href="https://github.com/AmitXShukla/RPA">ETL Datawarehouse | ELT Data Lake</a><br/>
 <a href="https://github.com/AmitXShukla/MyBookOfJulia">MyBookOfJulia</a><br/>
 <a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
 OCR.ai<br/>
