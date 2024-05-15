@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 You can find me on 
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://github.com/AmitXShukla)
-[<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_2.svg" width="30px" height="30px">](https://twitter.com/ashuklax)
+[<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_1.svg" width="30px" height="30px">](https://twitter.com/ashuklax)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/medium.svg" width="30px" height="30px">](https://amit-shukla.medium.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitXShukla&show_icons=true)
