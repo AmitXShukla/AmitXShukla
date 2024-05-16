@@ -42,6 +42,11 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
 
 ## ⚡ Complete Projects with source code: ...
+
+#### Latest Project
+<a href="https://github.com/AmitXShukla/Delivery.git">Ride | Service | Delivery Mangament app made in Flutter, Parse, Back4App MongoDB framework</a><br/>
+<br/>
+
 <!--
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <b>Bestsellers:</b><br/>
 -->
