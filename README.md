@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> I develop applications for the community.<br/>
-You can find me on 
+<img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> connect
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://github.com/AmitXShukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_1.svg" width="30px" height="30px">](https://twitter.com/ashuklax)
