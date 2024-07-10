@@ -40,16 +40,14 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 ### 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
 
-## ⚡ Complete Projects with source code: ...
+## ⚡ Complete Projects with source code
 
-#### Latest Project
+#### Flutter
 <a href="https://github.com/AmitXShukla/Delivery.git">Ride | Service | Delivery Mangament app made in Flutter, Parse, Back4App MongoDB framework</a><br/>
-<br/>
-
-<!--
-<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <b>Bestsellers:</b><br/>
--->
 <a href="https://github.com/AmitXShukla/Healthcare-Management-App-Flutter_Firebase">Healthcare Management app using Flutter</a><br/>
+<A href="https://github.com/AmitXShukla/Flutter-for-Beginners">Flutter for Beginners - Restaurant Management App</a><br/>
+
+#### Angular
 <a href="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App">COVID Vaccine Distribution Managment App</a><br/>
 <a href="https://github.com/AmitXShukla/Pandemic-Contact-Tracing-App">Pandemic Contact Tracing App</a><br/>
 <A href="https://github.com/AmitXShukla/Online-School-Management-App-Angular-Firebase">Online School Management App</a><br/>
@@ -57,11 +55,12 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 <A href="https://github.com/AmitXShukla/Online-Shop-eCommerce-App-Angular-6-Firebase">eCommerce Store</a><br/>
 <A href="https://github.com/AmitXShukla/Employee-Payroll-Salary-App-Angular-6-MEAN-Stack">HCM Employee Payroll App</a><br/>
 <A href="https://github.com/AmitXShukla/Visitor-Management-App">Visitor Management App</a><br/>
-<A href="https://github.com/AmitXShukla/Flutter-for-Beginners">Flutter for Beginners - Restaurant Management App</a><br/>
 <A href="https://github.com/AmitXShukla/GPS-Mobile-Tracking-App">GPS Mobile Tracking App</a><br/>
 <A href="https://github.com/AmitXShukla/Mobile-Picture-GPS-Tracking-Attendance-APP">Mobile Picture & GPS Employee Attendance App</a><br/>
 
 ## 🤖 Automation
+
+#### Python, Gen AI
 <a href="https://github.com/AmitXShukla/RPA">RPA (using Llama 2, ChatGPT, Python, BARD)</a><br/>
 <a href="https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-UseCases.ipynb">Llama 2 Installation Windows/Linux</a><br/>
 <a href="https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-Efficient%20Time%20and%20Expense%20Monitoring%20with%20Llama%202.ipynb">Efficient Time and Expense Monitoring with Llama 2</a><br/>
@@ -72,6 +71,7 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 <a href="https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20Polars%20dataframe%20complete%20user%20guide.ipynb">The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame</a><br/>
 
 ## 💡 I’m currently working on ...<br/>
+#### 🔭 AI Projects : WIP .ai apps ...<br/>
 <a href="https://github.com/AmitXShukla/RPA">Data Analytics</a><br/>
 <a href="https://github.com/AmitXShukla/RPA">ETL Datawarehouse | ELT Data Lake</a><br/>
 <a href="https://github.com/AmitXShukla/MyBookOfJulia">MyBookOfJulia</a><br/>
@@ -85,7 +85,6 @@ supporting Data Science Packages <br/>
 <a href="https://github.com/AmitXShukla/P2P.jl">Procure2Pay.jl</a><br/>
 <a href="https://github.com/AmitXShukla/Inventory.ai">Live Inventory Management app (Flutter)</a><br/>
 
-#### 🔭 AI Projects : WIP .ai apps ...<br/>
 <a href="https://github.com/AmitXShukla/Rapyd">B2B|C Smart Ads, Invoices Rapyd Payment solution</a><br/>
 <a href="https://github.com/AmitXShukla/eCommerce.ai">eCommerce.ai</a><br/>
 <a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
