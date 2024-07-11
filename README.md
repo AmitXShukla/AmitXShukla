@@ -36,10 +36,10 @@ Stars, followers and subscribers like you, is what motivate me to take on more c
 📫 How to reach me ... Most of my blogs/videos focus on building real-life Professional apps/projects. For better assistance, provide detailed error screenshots and console logs at GitHub repository instead of using YouTube Chat.
 
 Please use the GitHub repository issues tab. Check open/closed issues first, as your questions may already be answered there. If not, open a new issue with comprehensive details.
-
+<!--
 ### 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
-
+-->
 ## ⚡ Complete Projects with source code
 
 #### Flutter
