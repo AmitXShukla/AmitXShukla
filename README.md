@@ -42,7 +42,7 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
 -->
 ## 💡 coming soon
-<a href="">Gen AI Startup (India, USA, Ethiopia, Sudan, Thailand, South Korea)</a>
+<a href="#">Gen AI Startup (India, USA, Ethiopia, Sudan, Thailand, South Korea)</a>
 
 ## ⚡ Complete Projects with source code
 
