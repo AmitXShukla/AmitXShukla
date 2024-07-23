@@ -41,6 +41,9 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 ### 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
 -->
+## 💡 coming soon
+<a href="">Gen AI Startup (India, USA, Ethiopia, Sudan, Thailand, South Korea)</a>
+
 ## ⚡ Complete Projects with source code
 
 #### Flutter
@@ -73,20 +76,20 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 
 ## 💡 I’m currently working on ...<br/>
 #### 🔭 AI Projects : WIP .ai apps ...<br/>
+Taxology.ai<br/>
+TaxAnalytics.jl<br/>
+CommunityWatch<br/>
+<a href="https://github.com/AmitXShukla/eCommerce.ai">eCommerce.ai</a><br/>
+<a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
+<a href="https://github.com/AmitXShukla/HazardAhead.ai">HazardAhead.ai</a><br/>
 <a href="https://github.com/AmitXShukla/RPA">Data Analytics</a><br/>
 <a href="https://github.com/AmitXShukla/RPA">ETL Datawarehouse | ELT Data Lake</a><br/>
 <a href="https://github.com/AmitXShukla/MyBookOfJulia">MyBookOfJulia</a><br/>
 <a href="https://github.com/AmitXShukla/GeneralLedger.jl">GeneralLedger.jl</a><br/>
 OCR.ai<br/>
-Taxology.ai<br/>
-TaxAnalytics.jl<br/>
 MatchException.jl<br/>
 <a href="https://github.com/AmitXShukla/CT-NLM-CDC-NIH.ai">CT-NLM-CDC-NIH.ai</a><br/><br/>
 supporting Data Science Packages <br/>
 <a href="https://github.com/AmitXShukla/P2P.jl">Procure2Pay.jl</a><br/>
 <a href="https://github.com/AmitXShukla/Inventory.ai">Live Inventory Management app (Flutter)</a><br/>
-
 <a href="https://github.com/AmitXShukla/Rapyd">B2B|C Smart Ads, Invoices Rapyd Payment solution</a><br/>
-<a href="https://github.com/AmitXShukla/eCommerce.ai">eCommerce.ai</a><br/>
-<a href="https://github.com/AmitXShukla/P2P.ai">P2P.ai</a><br/>
-<a href="https://github.com/AmitXShukla/HazardAhead.ai">HazardAhead.ai</a><br/>
