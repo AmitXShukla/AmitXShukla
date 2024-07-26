@@ -41,8 +41,8 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 ### 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
 -->
-## 💡 coming soon
-<a href="#">Gen AI Startup (India, USA, Ethiopia, Sudan, Thailand, South Korea)</a>
+## 💡 work in progress
+<a href="https://github.com/AmitXShukla/GenAI">Gen AI Startups</a>
 
 ## ⚡ Complete Projects with source code
 
