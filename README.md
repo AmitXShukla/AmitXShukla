@@ -41,10 +41,14 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 ### 😄 My Bio: ...
 <A href="https://amitxshukla.github.io/aboutus">https://amitxshukla.github.io</a><br/>
 -->
-## 💡 Gen AI Startup
-<a href="https://github.com/AmitXShukla/GoogleCommunity">Google Community Watch</a>
+
+## 💡 LG WebOS Watch.Out AI
+<a href="https://github.com/AmitXShukla/LGWatch">LG WatchOut</a>
 
 ## ⚡ Complete Projects with source code
+
+## 💡 Gen AI Startup
+<a href="https://github.com/AmitXShukla/GoogleCommunity">Google Community</a>
 
 #### Flutter
 <a href="https://github.com/AmitXShukla/Delivery.git">Ride | Service | Delivery Mangament app made in Flutter, Parse, Back4App MongoDB framework</a><br/>
