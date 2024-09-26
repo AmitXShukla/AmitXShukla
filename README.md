@@ -45,6 +45,7 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 -->
 
 ## 💡 Gen AI Startup
+<a href="https://github.com/AmitXShukla/GenAI">Gen AI RAG llama3.2 ollama app</a><br/>
 <a href="https://github.com/AmitXShukla/GoogleCommunity">Google Community</a>
 
 #### Flutter
