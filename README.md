@@ -46,14 +46,16 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 
 ## 💡 Gen AI Startup
 <a href="https://github.com/AmitXShukla/GenAI">Gen AI RAG llama3.2 ollama app</a><br/>
-<a href="https://github.com/AmitXShukla/GoogleCommunity">Google Community</a>
+<a href="https://github.com/AmitXShukla/GoogleCommunity">Google Community</a><br/>
+<!--<a href="https://github.com/AmitXShukla/LGWatch">LG WebOS TV App</a>-->
 
-#### Flutter
+## ⚡ Flutter
 <a href="https://github.com/AmitXShukla/Delivery.git">Ride | Service | Delivery Mangament app made in Flutter, Parse, Back4App MongoDB framework</a><br/>
 <a href="https://github.com/AmitXShukla/Healthcare-Management-App-Flutter_Firebase">Healthcare Management app using Flutter</a><br/>
 <A href="https://github.com/AmitXShukla/Flutter-for-Beginners">Flutter for Beginners - Restaurant Management App</a><br/>
 <a href="https://github.com/AmitXShukla/LGWatch">LG WatchOut</a>
-#### Angular
+
+## ⚡ Angular
 <a href="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App">COVID Vaccine Distribution Managment App</a><br/>
 <a href="https://github.com/AmitXShukla/Pandemic-Contact-Tracing-App">Pandemic Contact Tracing App</a><br/>
 <A href="https://github.com/AmitXShukla/Online-School-Management-App-Angular-Firebase">Online School Management App</a><br/>
