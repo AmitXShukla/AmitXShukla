@@ -45,7 +45,8 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 -->
 
 ## 💡 Latest: Gen AI Startup
-<a href="https://github.com/AmitXShukla/GenAI">Face Recognition AI app</a><br/><br/>
+<a href="https://github.com/AmitXShukla/GenAI">OCR Vision AI app</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/OCR/OCR.ipynb">Lesson 7</a><br/>
+<a href="https://github.com/AmitXShukla/GenAI">Face Recognition AI app</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/FaceRecognition/FAISS.ipynb">Lesson 6</a><br/><br/>
 <a href="https://github.com/AmitXShukla/GenAI">Gen AI RAG llama3.2 ollama app</a><br/>
 <a href="https://github.com/AmitXShukla/GoogleCommunity">Google Community</a><br/>
 <!--<a href="https://github.com/AmitXShukla/LGWatch">LG WebOS TV App</a>-->
