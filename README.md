@@ -45,6 +45,7 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 -->
 
 ## 💡 Latest: Gen AI Startup
+<a href="https://github.com/AmitXShukla/GenAI">Grok 3.0</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/Grok3.0/grok3.ipynb">Lesson 9</a><br/>
 <a href="https://github.com/AmitXShukla/GenAI">AI Agents - Deepseek-R1, llama 3.3, AutoGen0.4</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/AI-Agents/ai-agents.ipynb">Lesson 8</a><br/><br/>
 <a href="https://github.com/AmitXShukla/GenAI">OCR Vision AI app</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/OCR/OCR.ipynb">Lesson 7</a><br/>
 <a href="https://github.com/AmitXShukla/GenAI">Face Recognition AI app</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/FaceRecognition/FAISS.ipynb">Lesson 6</a><br/><br/>
