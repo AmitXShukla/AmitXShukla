@@ -45,6 +45,7 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 -->
 
 ## 💡 Latest: Gen AI Startup
+<a href="https://github.com/Dankflee/RAG-Time_Expense_HR/tree/main">RAG based HR Time & Expense Management App</a><br>
 <a href="https://github.com/AmitXShukla/AgentsOfAI">free eBook: AgentsOfAI ~ Hack the Core : AutoGen 0.4 Unleashed <img src="https://github.com/AmitXShukla/AgentsOfAI/raw/main/content/images/logo.png" width=100></a><br/>
 
 <a href="https://github.com/AmitXShukla/GenAI">Grok 3.0</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/Grok3.0/grok3.ipynb">demo</a><br/>
