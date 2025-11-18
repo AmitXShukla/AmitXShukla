@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://avatars3.githubusercontent.com/u/20031132?s=460&u=0dd69a65cc13bf4f75c133a78938695f5379584b&v=4" width="20px"> connect
--->
+
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://github.com/AmitXShukla)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_1.svg" width="30px" height="30px">](https://twitter.com/ashuklax)
 [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/medium.svg" width="30px" height="30px">](https://amit-shukla.medium.com/)
-
+-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitXShukla&show_icons=true)
 
 ### about you 👯
 You've landed here because you've taken an interest in one of my projects. Regardless of which link led you here, I sincerely want to <b><u>express my gratitude</b></u> for your curiosity.<br/><br/>
 Believe me, bringing a real-life working project to fruition involves a significant amount of effort.
 You are here, because you got interest in one of my projects.<br/>
-If you enjoy my project, kindly give it a GitHub star [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/star.svg" width="30px" height="30px">](https://github.com/AmitXShukla) and subscribe my [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/youtube.svg" width="30px" height="30px">](https://youtube.com/@amit.shukla) channel and follow me at [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/github.svg" width="30px" height="30px">](https://github.com/AmitXShukla) and [<img src="https://raw.githubusercontent.com/AmitXShukla/AmitXShukla.github.io/master/assets/icons/twitter_1.svg" width="30px" height="30px">](https://twitter.com/ashuklax). Your support motivates me to tackle more challenges and create additional community projects for you.
+If you enjoy my project, kindly give it a GitHub star [⭐](https://github.com/AmitXShukla) and subscribe my [▶️](https://youtube.com/@amit.shukla) channel and follow me at [🐱](https://github.com/AmitXShukla) and [𝕏](https://twitter.com/ashuklax). Your support motivates me to tackle more challenges and create additional community projects for you.
 <br/>
 Stars, followers and subscribers like you, is what motivate me to take on more challanges and deliver more community projects for you.
 
@@ -46,7 +46,8 @@ Please use the GitHub repository issues tab. Check open/closed issues first, as 
 
 ## 💡 Latest: Gen AI Startup
 <a href="https://github.com/Dankflee/RAG-Time_Expense_HR/tree/main">RAG based HR Time & Expense Management App</a><br>
-<a href="https://github.com/AmitXShukla/AgentsOfAI">free eBook: AgentsOfAI ~ Hack the Core : AutoGen 0.4 Unleashed <img src="https://github.com/AmitXShukla/AgentsOfAI/raw/main/content/images/logo.png" width=100></a><br/>
+<a href="https://github.com/AmitXShukla/AgentsOfAI">free eBook: AgentsOfAI ~ Hack the Core : AutoGen 0.4 Unleashed <img width="100" height="140" alt="image" src="https://github.com/user-attachments/assets/f013e626-2209-4314-acde-16254b6c4598" />
+</a><br/>
 
 <a href="https://github.com/AmitXShukla/GenAI">Grok 3.0</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/Grok3.0/grok3.ipynb">demo</a><br/>
 <a href="https://github.com/AmitXShukla/GenAI">AI Agents - Deepseek-R1, llama 3.3, AutoGen0.4</a> - <a href="https://github.com/AmitXShukla/GenAI/blob/master/AI-Agents/ai-agents.ipynb">Lesson 8</a><br/><br/>
